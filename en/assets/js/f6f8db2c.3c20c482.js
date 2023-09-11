@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpoltui_docs=self.webpackChunkpoltui_docs||[]).push([[886],{2245:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/poltui_docs/en/blog/tags/hola","allTagsPath":"/poltui_docs/en/blog/tags","count":1}')}}]);

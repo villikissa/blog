@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpoltui_docs=self.webpackChunkpoltui_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/poltui_docs/blog/welcome"}]}')}}]);
