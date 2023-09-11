@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpoltui_docs=self.webpackChunkpoltui_docs||[]).push([[637],{1169:o=>{o.exports=JSON.parse('{"permalink":"/blog/en/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
